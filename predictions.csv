@@ -1,205 +1,205 @@
 ,Expected
-0, Consult - History and Phy.
-1, Consult - History and Phy.
+0, Surgery
+1, Surgery
 2, Surgery
 3, Surgery
 4, Surgery
-5, Consult - History and Phy.
+5, Surgery
 6, Consult - History and Phy.
 7, Surgery
 8, Surgery
 9, Consult - History and Phy.
-10, Cardiovascular / Pulmonary
+10, Consult - History and Phy.
 11, Surgery
-12, Consult - History and Phy.
+12, Surgery
 13, Surgery
-14, Consult - History and Phy.
+14, Surgery
 15, Surgery
 16, Surgery
 17, Surgery
-18, Cardiovascular / Pulmonary
+18, Surgery
 19, Surgery
-20, Consult - History and Phy.
-21, Cardiovascular / Pulmonary
-22, Consult - History and Phy.
+20, Surgery
+21, Surgery
+22, Neurology
 23, Consult - History and Phy.
-24, Consult - History and Phy.
+24, Surgery
 25, Surgery
 26, Surgery
 27, Surgery
-28, Cardiovascular / Pulmonary
+28, Surgery
 29, Surgery
 30, Surgery
-31, Cardiovascular / Pulmonary
-32, Surgery
+31, Surgery
+32, Cardiovascular / Pulmonary
 33, Surgery
-34, Consult - History and Phy.
-35, Consult - History and Phy.
+34, Radiology
+35, Surgery
 36, Surgery
-37, Surgery
-38, Consult - History and Phy.
-39, Consult - History and Phy.
-40, Consult - History and Phy.
-41, Consult - History and Phy.
+37, Orthopedic
+38, Surgery
+39, Surgery
+40, Surgery
+41, Surgery
 42, Surgery
-43, Consult - History and Phy.
+43, Surgery
 44, Surgery
-45, Cardiovascular / Pulmonary
-46, Consult - History and Phy.
+45, Surgery
+46, Surgery
 47, Surgery
 48, Surgery
-49, Cardiovascular / Pulmonary
-50, Consult - History and Phy.
+49, Surgery
+50, Surgery
 51, Surgery
 52, Consult - History and Phy.
-53, Consult - History and Phy.
+53, Surgery
 54, Surgery
-55, Cardiovascular / Pulmonary
+55, Surgery
 56, Surgery
 57, Surgery
 58, Surgery
 59, Surgery
 60, Surgery
 61, Surgery
-62, Cardiovascular / Pulmonary
+62, Surgery
 63, Surgery
 64, Surgery
 65, Surgery
 66, Surgery
 67, Surgery
-68, Consult - History and Phy.
+68, Surgery
 69, Consult - History and Phy.
 70, Surgery
 71, Surgery
 72, Surgery
 73, Surgery
-74, Consult - History and Phy.
+74, Surgery
 75, Consult - History and Phy.
 76, Surgery
 77, Surgery
 78, Surgery
-79, Cardiovascular / Pulmonary
+79, Surgery
 80, Surgery
-81, Consult - History and Phy.
+81, Surgery
 82, Surgery
-83, Consult - History and Phy.
+83, Surgery
 84, Surgery
 85, Surgery
-86, Consult - History and Phy.
+86, Surgery
 87, Surgery
-88, Surgery
-89, Cardiovascular / Pulmonary
+88, Cardiovascular / Pulmonary
+89, Radiology
 90, Surgery
 91, Surgery
-92, Consult - History and Phy.
+92, Surgery
 93, Surgery
-94, Consult - History and Phy.
+94, Surgery
 95, Surgery
 96, Surgery
 97, Surgery
-98, Consult - History and Phy.
-99, Surgery
-100, Cardiovascular / Pulmonary
+98, Surgery
+99, Radiology
+100, Surgery
 101, Surgery
 102, Surgery
-103, Consult - History and Phy.
+103, Surgery
 104, Surgery
 105, Surgery
-106, Consult - History and Phy.
+106, Surgery
 107, Surgery
-108, Consult - History and Phy.
-109, Cardiovascular / Pulmonary
-110, Consult - History and Phy.
+108, Surgery
+109, Surgery
+110, Surgery
 111, Surgery
 112, Surgery
-113, Consult - History and Phy.
+113, Surgery
 114, Surgery
 115, Surgery
 116, Surgery
-117, Cardiovascular / Pulmonary
+117, Surgery
 118, Surgery
 119, Surgery
 120, Surgery
-121, Consult - History and Phy.
-122, Consult - History and Phy.
-123, Consult - History and Phy.
-124, Cardiovascular / Pulmonary
-125, Consult - History and Phy.
+121, Surgery
+122, Surgery
+123, Surgery
+124, Surgery
+125, Surgery
 126, Surgery
-127, Consult - History and Phy.
-128, Consult - History and Phy.
-129, Consult - History and Phy.
+127, Surgery
+128, Surgery
+129, Surgery
 130, Surgery
 131, Consult - History and Phy.
 132, Surgery
 133, Surgery
 134, Surgery
-135, Consult - History and Phy.
+135, Surgery
 136, Surgery
 137, Surgery
 138, Surgery
-139, Cardiovascular / Pulmonary
+139, Consult - History and Phy.
 140, Surgery
-141, Consult - History and Phy.
+141, Surgery
 142, Surgery
 143, Surgery
 144, Surgery
 145, Surgery
-146, Cardiovascular / Pulmonary
-147, Consult - History and Phy.
+146, Surgery
+147, Surgery
 148, Surgery
 149, Surgery
-150, Consult - History and Phy.
+150, Surgery
 151, Surgery
-152, Cardiovascular / Pulmonary
-153, Consult - History and Phy.
-154, Surgery
+152, Consult - History and Phy.
+153, Surgery
+154, Cardiovascular / Pulmonary
 155, Surgery
 156, Surgery
 157, Surgery
 158, Surgery
 159, Surgery
-160, Consult - History and Phy.
+160, Surgery
 161, Surgery
 162, Surgery
 163, Surgery
-164, Cardiovascular / Pulmonary
+164, Gastroenterology
 165, Consult - History and Phy.
-166, Cardiovascular / Pulmonary
-167, Cardiovascular / Pulmonary
+166, Surgery
+167, Surgery
 168, Surgery
 169, Surgery
 170, Surgery
-171, Surgery
-172, Consult - History and Phy.
-173, Cardiovascular / Pulmonary
-174, Consult - History and Phy.
-175, Surgery
-176, Consult - History and Phy.
+171, Orthopedic
+172, Surgery
+173, Surgery
+174, Surgery
+175, Cardiovascular / Pulmonary
+176, Surgery
 177, Surgery
 178, Surgery
 179, Surgery
 180, Surgery
 181, Surgery
-182, Consult - History and Phy.
-183, Cardiovascular / Pulmonary
+182, Surgery
+183, Surgery
 184, Surgery
-185, Cardiovascular / Pulmonary
-186, Cardiovascular / Pulmonary
-187, Cardiovascular / Pulmonary
-188, Consult - History and Phy.
-189, Consult - History and Phy.
-190, Consult - History and Phy.
-191, Consult - History and Phy.
-192, Cardiovascular / Pulmonary
-193, Surgery
+185, Surgery
+186, Surgery
+187, Surgery
+188, Surgery
+189, Surgery
+190, Surgery
+191, Surgery
+192, Surgery
+193, Cardiovascular / Pulmonary
 194, Surgery
 195, Surgery
 196, Surgery
-197, Cardiovascular / Pulmonary
-198, Consult - History and Phy.
+197, Surgery
+198, Surgery
 199, Surgery
-200, Consult - History and Phy.
+200, Surgery
 201, Surgery
 202, Surgery
 203, Surgery
@@ -208,41 +208,41 @@
 206, Surgery
 207, Surgery
 208, Surgery
-209, Consult - History and Phy.
-210, Cardiovascular / Pulmonary
-211, Consult - History and Phy.
+209, Surgery
+210, Surgery
+211, Surgery
 212, Surgery
 213, Surgery
 214, Surgery
-215, Consult - History and Phy.
-216, Consult - History and Phy.
-217, Consult - History and Phy.
+215, Surgery
+216, Surgery
+217, Surgery
 218, Surgery
 219, Surgery
-220, Consult - History and Phy.
-221, Consult - History and Phy.
+220, Surgery
+221, Surgery
 222, Surgery
 223, Surgery
-224, Consult - History and Phy.
+224, Surgery
 225, Surgery
-226, Consult - History and Phy.
-227, Surgery
+226, Surgery
+227, Cardiovascular / Pulmonary
 228, Surgery
 229, Surgery
 230, Surgery
-231, Surgery
+231, Orthopedic
 232, Surgery
-233, Consult - History and Phy.
+233, Surgery
 234, Surgery
-235, Cardiovascular / Pulmonary
-236, Consult - History and Phy.
+235, Surgery
+236, Surgery
 237, Surgery
 238, Surgery
-239, Cardiovascular / Pulmonary
+239, Surgery
 240, Surgery
 241, Surgery
-242, Cardiovascular / Pulmonary
-243, Cardiovascular / Pulmonary
+242, Surgery
+243, Surgery
 244, Surgery
 245, Surgery
 246, Surgery
@@ -250,89 +250,89 @@
 248, Surgery
 249, Surgery
 250, Surgery
-251, Consult - History and Phy.
+251, Surgery
 252, Surgery
 253, Surgery
-254, Consult - History and Phy.
+254, Surgery
 255, Surgery
 256, Surgery
-257, Consult - History and Phy.
-258, Consult - History and Phy.
+257, Surgery
+258, Surgery
 259, Consult - History and Phy.
 260, Surgery
 261, Surgery
-262, Consult - History and Phy.
-263, Consult - History and Phy.
-264, Cardiovascular / Pulmonary
+262, Surgery
+263, Surgery
+264, Surgery
 265, Surgery
 266, Surgery
-267, Consult - History and Phy.
+267, Surgery
 268, Surgery
-269, Consult - History and Phy.
+269, Surgery
 270, Surgery
-271, Consult - History and Phy.
-272, Consult - History and Phy.
-273, Consult - History and Phy.
+271, Radiology
+272, Surgery
+273, Surgery
 274, Surgery
 275, Surgery
 276, Surgery
 277, Surgery
-278, Consult - History and Phy.
-279, Consult - History and Phy.
-280, Consult - History and Phy.
+278, Surgery
+279, Surgery
+280, Surgery
 281, Surgery
-282, Consult - History and Phy.
+282, Surgery
 283, Surgery
-284, Consult - History and Phy.
-285, Consult - History and Phy.
+284, Surgery
+285, Surgery
 286, Surgery
 287, Surgery
-288, Cardiovascular / Pulmonary
-289, Consult - History and Phy.
-290, Consult - History and Phy.
+288, Surgery
+289, Surgery
+290, Surgery
 291, Surgery
-292, Consult - History and Phy.
+292, Surgery
 293, Surgery
-294, Cardiovascular / Pulmonary
+294, Surgery
 295, Surgery
 296, Surgery
 297, Surgery
 298, Surgery
-299, Cardiovascular / Pulmonary
-300, Consult - History and Phy.
-301, Surgery
+299, Surgery
+300, Surgery
+301, Radiology
 302, Surgery
 303, Surgery
-304, Cardiovascular / Pulmonary
+304, Surgery
 305, Surgery
 306, Surgery
-307, Consult - History and Phy.
-308, Consult - History and Phy.
-309, Consult - History and Phy.
+307, Surgery
+308, Surgery
+309, Surgery
 310, Surgery
-311, Cardiovascular / Pulmonary
-312, Consult - History and Phy.
+311, Surgery
+312, Surgery
 313, Surgery
 314, Surgery
 315, Surgery
 316, Surgery
-317, Consult - History and Phy.
+317, Surgery
 318, Surgery
 319, Surgery
 320, Surgery
-321, Cardiovascular / Pulmonary
+321, Surgery
 322, Surgery
 323, Surgery
 324, Surgery
-325, Consult - History and Phy.
-326, Consult - History and Phy.
-327, Surgery
+325, Surgery
+326, Surgery
+327, Cardiovascular / Pulmonary
 328, Surgery
-329, Cardiovascular / Pulmonary
-330, Cardiovascular / Pulmonary
-331, Consult - History and Phy.
+329, Surgery
+330, Surgery
+331, Surgery
 332, Surgery
-333, Consult - History and Phy.
+333, Surgery
 334, Surgery
 335, Surgery
 336, Surgery
@@ -343,196 +343,196 @@
 341, Surgery
 342, Surgery
 343, Surgery
-344, Consult - History and Phy.
-345, Consult - History and Phy.
+344, Surgery
+345, Surgery
 346, Surgery
 347, Surgery
 348, Surgery
-349, Cardiovascular / Pulmonary
-350, Consult - History and Phy.
+349, Surgery
+350, Surgery
 351, Surgery
-352, Consult - History and Phy.
-353, Surgery
-354, Cardiovascular / Pulmonary
+352, Surgery
+353, Cardiovascular / Pulmonary
+354, Consult - History and Phy.
 355, Surgery
-356, Cardiovascular / Pulmonary
+356, Surgery
 357, Surgery
-358, Consult - History and Phy.
-359, Consult - History and Phy.
+358, Surgery
+359, Surgery
 360, Surgery
 361, Surgery
 362, Surgery
 363, Surgery
-364, Consult - History and Phy.
+364, Surgery
 365, Surgery
 366, Surgery
-367, Consult - History and Phy.
+367, Surgery
 368, Surgery
-369, Consult - History and Phy.
+369, Surgery
 370, Surgery
 371, Surgery
 372, Surgery
 373, Surgery
-374, Consult - History and Phy.
+374, Surgery
 375, Surgery
-376, Surgery
+376, Radiology
 377, Surgery
 378, Surgery
 379, Surgery
-380, Consult - History and Phy.
+380, Surgery
 381, Surgery
 382, Surgery
-383, Cardiovascular / Pulmonary
+383, Surgery
 384, Consult - History and Phy.
 385, Surgery
-386, Consult - History and Phy.
-387, Cardiovascular / Pulmonary
+386, Surgery
+387, Surgery
 388, Surgery
 389, Surgery
 390, Surgery
 391, Surgery
-392, Cardiovascular / Pulmonary
+392, Surgery
 393, Surgery
-394, Consult - History and Phy.
+394, Surgery
 395, Surgery
-396, Consult - History and Phy.
-397, Consult - History and Phy.
+396, Surgery
+397, Surgery
 398, Surgery
-399, Consult - History and Phy.
-400, Consult - History and Phy.
+399, Surgery
+400, Surgery
 401, Surgery
-402, Consult - History and Phy.
-403, Consult - History and Phy.
-404, Consult - History and Phy.
+402, Surgery
+403, Surgery
+404, Surgery
 405, Surgery
 406, Surgery
-407, Cardiovascular / Pulmonary
-408, Surgery
-409, Consult - History and Phy.
-410, Consult - History and Phy.
-411, Consult - History and Phy.
+407, Surgery
+408, Orthopedic
+409, Surgery
+410, Surgery
+411, Radiology
 412, Surgery
-413, Consult - History and Phy.
-414, Consult - History and Phy.
+413, Surgery
+414, Surgery
 415, Surgery
-416, Consult - History and Phy.
+416, Surgery
 417, Surgery
-418, Consult - History and Phy.
+418, Surgery
 419, Surgery
 420, Surgery
 421, Surgery
-422, Consult - History and Phy.
+422, Surgery
 423, Surgery
 424, Surgery
 425, Surgery
 426, Surgery
-427, Cardiovascular / Pulmonary
+427, Surgery
 428, Surgery
 429, Surgery
 430, Consult - History and Phy.
-431, Cardiovascular / Pulmonary
+431, Surgery
 432, Surgery
 433, Surgery
 434, Surgery
 435, Surgery
-436, Consult - History and Phy.
+436, Surgery
 437, Surgery
 438, Surgery
-439, Consult - History and Phy.
-440, Consult - History and Phy.
+439, Surgery
+440, Surgery
 441, Surgery
 442, Surgery
-443, Consult - History and Phy.
+443, Surgery
 444, Surgery
 445, Surgery
-446, Cardiovascular / Pulmonary
-447, Cardiovascular / Pulmonary
-448, Consult - History and Phy.
+446, Surgery
+447, Orthopedic
+448, Surgery
 449, Surgery
 450, Surgery
 451, Surgery
-452, Cardiovascular / Pulmonary
+452, Radiology
 453, Surgery
-454, Consult - History and Phy.
+454, Surgery
 455, Consult - History and Phy.
-456, Consult - History and Phy.
+456, Surgery
 457, Surgery
 458, Surgery
 459, Surgery
 460, Surgery
-461, Consult - History and Phy.
-462, Consult - History and Phy.
+461, Surgery
+462, Surgery
 463, Surgery
 464, Surgery
 465, Surgery
-466, Cardiovascular / Pulmonary
+466, Surgery
 467, Surgery
-468, Consult - History and Phy.
+468, Surgery
 469, Surgery
 470, Surgery
 471, Surgery
 472, Surgery
-473, Consult - History and Phy.
-474, Cardiovascular / Pulmonary
-475, Consult - History and Phy.
-476, Consult - History and Phy.
-477, Consult - History and Phy.
-478, Consult - History and Phy.
+473, Surgery
+474, Surgery
+475, Surgery
+476, Surgery
+477, Surgery
+478, Surgery
 479, Surgery
 480, Surgery
 481, Surgery
 482, Surgery
 483, Surgery
 484, Surgery
-485, Consult - History and Phy.
+485, Surgery
 486, Surgery
 487, Surgery
-488, Consult - History and Phy.
-489, Cardiovascular / Pulmonary
+488, Surgery
+489, Surgery
 490, Surgery
 491, Surgery
-492, Consult - History and Phy.
+492, Surgery
 493, Surgery
 494, Surgery
 495, Surgery
-496, Cardiovascular / Pulmonary
-497, Consult - History and Phy.
-498, Consult - History and Phy.
+496, Consult - History and Phy.
+497, Surgery
+498, Radiology
 499, Surgery
 500, Surgery
-501, Cardiovascular / Pulmonary
-502, Consult - History and Phy.
+501, Surgery
+502, Surgery
 503, Surgery
-504, Consult - History and Phy.
-505, Consult - History and Phy.
+504, Surgery
+505, Surgery
 506, Surgery
-507, Cardiovascular / Pulmonary
-508, Consult - History and Phy.
-509, Cardiovascular / Pulmonary
+507, Surgery
+508, Surgery
+509, Radiology
 510, Surgery
-511, Cardiovascular / Pulmonary
+511, Surgery
 512, Surgery
-513, Cardiovascular / Pulmonary
-514, Consult - History and Phy.
+513, Surgery
+514, Surgery
 515, Surgery
 516, Surgery
-517, Consult - History and Phy.
+517, Surgery
 518, Surgery
-519, Cardiovascular / Pulmonary
-520, Consult - History and Phy.
-521, Consult - History and Phy.
+519, Surgery
+520, Surgery
+521, Surgery
 522, Surgery
 523, Surgery
-524, Consult - History and Phy.
-525, Consult - History and Phy.
+524, Surgery
+525, Surgery
 526, Surgery
-527, Cardiovascular / Pulmonary
+527, Surgery
 528, Surgery
 529, Surgery
 530, Surgery
-531, Cardiovascular / Pulmonary
-532, Cardiovascular / Pulmonary
-533, Consult - History and Phy.
+531, Consult - History and Phy.
+532, Surgery
+533, Surgery
 534, Surgery
 535, Surgery
 536, Surgery
@@ -541,326 +541,326 @@
 539, Surgery
 540, Surgery
 541, Surgery
-542, Consult - History and Phy.
+542, Surgery
 543, Surgery
-544, Consult - History and Phy.
+544, Surgery
 545, Surgery
-546, Cardiovascular / Pulmonary
+546, Surgery
 547, Surgery
 548, Surgery
 549, Surgery
 550, Surgery
 551, Surgery
 552, Surgery
-553, Consult - History and Phy.
-554, Consult - History and Phy.
+553, Surgery
+554, Surgery
 555, Surgery
-556, Cardiovascular / Pulmonary
+556, Surgery
 557, Surgery
-558, Cardiovascular / Pulmonary
+558, Surgery
 559, Surgery
-560, Consult - History and Phy.
-561, Cardiovascular / Pulmonary
-562, Consult - History and Phy.
-563, Consult - History and Phy.
+560, Surgery
+561, Surgery
+562, Surgery
+563, Surgery
 564, Surgery
-565, Consult - History and Phy.
-566, Surgery
-567, Surgery
+565, Surgery
+566, Cardiovascular / Pulmonary
+567, Orthopedic
 568, Surgery
 569, Surgery
 570, Surgery
-571, Cardiovascular / Pulmonary
+571, Surgery
 572, Surgery
-573, Consult - History and Phy.
-574, Consult - History and Phy.
+573, Surgery
+574, Surgery
 575, Surgery
 576, Surgery
 577, Surgery
-578, Consult - History and Phy.
+578, Surgery
 579, Surgery
-580, Consult - History and Phy.
+580, Surgery
 581, Surgery
-582, Consult - History and Phy.
-583, Consult - History and Phy.
-584, Cardiovascular / Pulmonary
+582, Surgery
+583, Surgery
+584, Surgery
 585, Surgery
-586, Consult - History and Phy.
+586, Surgery
 587, Surgery
 588, Surgery
-589, Surgery
-590, Consult - History and Phy.
+589, Cardiovascular / Pulmonary
+590, Surgery
 591, Consult - History and Phy.
 592, Surgery
 593, Consult - History and Phy.
 594, Surgery
 595, Surgery
-596, Cardiovascular / Pulmonary
-597, Cardiovascular / Pulmonary
+596, Surgery
+597, Surgery
 598, Surgery
-599, Consult - History and Phy.
+599, Surgery
 600, Surgery
-601, Cardiovascular / Pulmonary
-602, Consult - History and Phy.
-603, Consult - History and Phy.
+601, Surgery
+602, Surgery
+603, Surgery
 604, Surgery
 605, Surgery
 606, Surgery
-607, Consult - History and Phy.
-608, Consult - History and Phy.
+607, Surgery
+608, Surgery
 609, Surgery
 610, Surgery
 611, Surgery
 612, Surgery
 613, Surgery
-614, Surgery
-615, Consult - History and Phy.
+614, Orthopedic
+615, Surgery
 616, Surgery
-617, Consult - History and Phy.
-618, Surgery
-619, Cardiovascular / Pulmonary
-620, Surgery
+617, Surgery
+618, Cardiovascular / Pulmonary
+619, Surgery
+620, Cardiovascular / Pulmonary
 621, Surgery
 622, Surgery
 623, Surgery
 624, Surgery
 625, Surgery
-626, Surgery
-627, Consult - History and Phy.
+626, Cardiovascular / Pulmonary
+627, Surgery
 628, Surgery
-629, Consult - History and Phy.
-630, Surgery
-631, Consult - History and Phy.
+629, Surgery
+630, Cardiovascular / Pulmonary
+631, Surgery
 632, Surgery
-633, Consult - History and Phy.
-634, Surgery
+633, Surgery
+634, Gastroenterology
 635, Surgery
-636, Consult - History and Phy.
+636, Surgery
 637, Surgery
-638, Consult - History and Phy.
+638, Surgery
 639, Surgery
 640, Surgery
 641, Surgery
-642, Cardiovascular / Pulmonary
-643, Cardiovascular / Pulmonary
+642, Consult - History and Phy.
+643, Consult - History and Phy.
 644, Surgery
-645, Consult - History and Phy.
-646, Surgery
-647, Consult - History and Phy.
+645, Surgery
+646, Orthopedic
+647, Surgery
 648, Surgery
 649, Surgery
-650, Consult - History and Phy.
-651, Consult - History and Phy.
-652, Consult - History and Phy.
-653, Surgery
-654, Consult - History and Phy.
-655, Cardiovascular / Pulmonary
-656, Surgery
-657, Surgery
+650, Surgery
+651, Surgery
+652, Surgery
+653, Cardiovascular / Pulmonary
+654, Surgery
+655, Radiology
+656, Cardiovascular / Pulmonary
+657, Cardiovascular / Pulmonary
 658, Surgery
 659, Surgery
-660, Consult - History and Phy.
-661, Consult - History and Phy.
+660, Surgery
+661, Surgery
 662, Surgery
 663, Surgery
 664, Surgery
-665, Cardiovascular / Pulmonary
+665, Surgery
 666, Surgery
 667, Surgery
-668, Consult - History and Phy.
+668, Surgery
 669, Surgery
-670, Consult - History and Phy.
-671, Cardiovascular / Pulmonary
-672, Surgery
+670, Surgery
+671, Surgery
+672, Orthopedic
 673, Surgery
 674, Surgery
 675, Surgery
 676, Surgery
-677, Surgery
-678, Consult - History and Phy.
+677, Cardiovascular / Pulmonary
+678, Surgery
 679, Surgery
 680, Surgery
 681, Surgery
-682, Consult - History and Phy.
+682, Surgery
 683, Surgery
 684, Surgery
-685, Consult - History and Phy.
-686, Consult - History and Phy.
+685, Surgery
+686, Surgery
 687, Surgery
-688, Consult - History and Phy.
-689, Cardiovascular / Pulmonary
-690, Consult - History and Phy.
+688, Surgery
+689, Surgery
+690, Surgery
 691, Surgery
-692, Consult - History and Phy.
-693, Consult - History and Phy.
+692, Surgery
+693, Surgery
 694, Surgery
 695, Surgery
 696, Surgery
 697, Surgery
-698, Cardiovascular / Pulmonary
+698, Surgery
 699, Surgery
-700, Consult - History and Phy.
-701, Consult - History and Phy.
-702, Cardiovascular / Pulmonary
-703, Cardiovascular / Pulmonary
+700, Surgery
+701, Surgery
+702, Surgery
+703, Surgery
 704, Surgery
 705, Surgery
-706, Consult - History and Phy.
-707, Consult - History and Phy.
+706, Surgery
+707, Surgery
 708, Surgery
-709, Consult - History and Phy.
+709, Surgery
 710, Surgery
 711, Surgery
-712, Cardiovascular / Pulmonary
+712, Surgery
 713, Surgery
 714, Surgery
-715, Consult - History and Phy.
-716, Cardiovascular / Pulmonary
+715, Surgery
+716, Surgery
 717, Surgery
 718, Surgery
 719, Surgery
-720, Consult - History and Phy.
-721, Consult - History and Phy.
+720, Surgery
+721, Surgery
 722, Surgery
 723, Surgery
 724, Surgery
 725, Surgery
-726, Surgery
+726, Orthopedic
 727, Surgery
 728, Surgery
-729, Cardiovascular / Pulmonary
-730, Consult - History and Phy.
-731, Consult - History and Phy.
-732, Consult - History and Phy.
-733, Consult - History and Phy.
-734, Consult - History and Phy.
+729, SOAP / Chart / Progress Notes
+730, Surgery
+731, Surgery
+732, Surgery
+733, Surgery
+734, Surgery
 735, Surgery
 736, Surgery
 737, Surgery
 738, Surgery
-739, Consult - History and Phy.
+739, Surgery
 740, Surgery
-741, Consult - History and Phy.
+741, Surgery
 742, Surgery
-743, Cardiovascular / Pulmonary
-744, Consult - History and Phy.
-745, Consult - History and Phy.
-746, Cardiovascular / Pulmonary
-747, Consult - History and Phy.
-748, Surgery
-749, Consult - History and Phy.
-750, Consult - History and Phy.
-751, Consult - History and Phy.
-752, Consult - History and Phy.
-753, Cardiovascular / Pulmonary
-754, Consult - History and Phy.
+743, Surgery
+744, Surgery
+745, Surgery
+746, Surgery
+747, Surgery
+748, Radiology
+749, Surgery
+750, Surgery
+751, Surgery
+752, Surgery
+753, Surgery
+754, Surgery
 755, Surgery
 756, Surgery
-757, Cardiovascular / Pulmonary
-758, Surgery
-759, Consult - History and Phy.
+757, Surgery
+758, Gastroenterology
+759, Surgery
 760, Surgery
-761, Cardiovascular / Pulmonary
+761, Surgery
 762, Surgery
-763, Consult - History and Phy.
-764, Consult - History and Phy.
+763, Orthopedic
+764, Surgery
 765, Surgery
-766, Consult - History and Phy.
+766, Surgery
 767, Surgery
-768, Cardiovascular / Pulmonary
-769, Consult - History and Phy.
-770, Surgery
-771, Consult - History and Phy.
+768, Surgery
+769, Surgery
+770, Radiology
+771, Surgery
 772, Surgery
-773, Consult - History and Phy.
+773, Surgery
 774, Surgery
-775, Consult - History and Phy.
-776, Consult - History and Phy.
+775, Surgery
+776, Surgery
 777, Surgery
-778, Cardiovascular / Pulmonary
-779, Consult - History and Phy.
-780, Consult - History and Phy.
-781, Cardiovascular / Pulmonary
-782, Consult - History and Phy.
+778, Radiology
+779, Surgery
+780, Surgery
+781, Surgery
+782, Surgery
 783, Surgery
-784, Cardiovascular / Pulmonary
-785, Cardiovascular / Pulmonary
+784, Surgery
+785, Surgery
 786, Surgery
-787, Surgery
+787, Cardiovascular / Pulmonary
 788, Surgery
-789, Consult - History and Phy.
+789, Surgery
 790, Surgery
-791, Consult - History and Phy.
-792, Consult - History and Phy.
-793, Consult - History and Phy.
-794, Consult - History and Phy.
-795, Consult - History and Phy.
-796, Consult - History and Phy.
-797, Consult - History and Phy.
+791, Surgery
+792, Surgery
+793, Surgery
+794, Surgery
+795, Surgery
+796, Surgery
+797, Surgery
 798, Surgery
-799, Consult - History and Phy.
-800, Consult - History and Phy.
+799, Surgery
+800, Surgery
 801, Surgery
 802, Surgery
-803, Consult - History and Phy.
+803, Surgery
 804, Surgery
 805, Surgery
 806, Surgery
 807, Surgery
 808, Surgery
 809, Consult - History and Phy.
-810, Consult - History and Phy.
-811, Cardiovascular / Pulmonary
-812, Consult - History and Phy.
+810, Surgery
+811, Surgery
+812, Surgery
 813, Surgery
-814, Consult - History and Phy.
+814, Surgery
 815, Surgery
-816, Consult - History and Phy.
+816, Radiology
 817, Surgery
 818, Surgery
 819, Surgery
 820, Consult - History and Phy.
 821, Surgery
-822, Cardiovascular / Pulmonary
+822, Surgery
 823, Surgery
 824, Surgery
 825, Consult - History and Phy.
-826, Cardiovascular / Pulmonary
+826, Surgery
 827, Surgery
 828, Surgery
-829, Consult - History and Phy.
+829, Surgery
 830, Surgery
 831, Surgery
-832, Consult - History and Phy.
+832, Surgery
 833, Surgery
 834, Surgery
 835, Surgery
-836, Cardiovascular / Pulmonary
+836, Surgery
 837, Surgery
 838, Surgery
-839, Consult - History and Phy.
+839, Surgery
 840, Surgery
 841, Surgery
-842, Cardiovascular / Pulmonary
-843, Cardiovascular / Pulmonary
+842, Surgery
+843, Surgery
 844, Surgery
 845, Surgery
 846, Surgery
 847, Surgery
-848, Consult - History and Phy.
-849, Consult - History and Phy.
-850, Surgery
+848, Surgery
+849, Surgery
+850, Cardiovascular / Pulmonary
 851, Surgery
 852, Surgery
-853, Consult - History and Phy.
+853, Surgery
 854, Surgery
-855, Consult - History and Phy.
-856, Consult - History and Phy.
+855, Surgery
+856, Surgery
 857, Surgery
 858, Surgery
 859, Surgery
-860, Consult - History and Phy.
-861, Consult - History and Phy.
+860, Surgery
+861, Surgery
 862, Surgery
 863, Surgery
 864, Surgery
@@ -868,131 +868,131 @@
 866, Surgery
 867, Surgery
 868, Surgery
-869, Cardiovascular / Pulmonary
+869, Surgery
 870, Surgery
-871, Consult - History and Phy.
+871, Surgery
 872, Surgery
 873, Surgery
-874, Surgery
+874, Cardiovascular / Pulmonary
 875, Surgery
 876, Surgery
 877, Surgery
-878, Consult - History and Phy.
+878, Surgery
 879, Surgery
 880, Surgery
 881, Surgery
 882, Surgery
-883, Consult - History and Phy.
+883, Surgery
 884, Surgery
-885, Consult - History and Phy.
-886, Cardiovascular / Pulmonary
-887, Consult - History and Phy.
-888, Consult - History and Phy.
+885, Surgery
+886, Surgery
+887, Surgery
+888, Surgery
 889, Surgery
 890, Surgery
-891, Consult - History and Phy.
-892, Consult - History and Phy.
+891, Surgery
+892, Surgery
 893, Surgery
 894, Surgery
 895, Surgery
-896, Consult - History and Phy.
+896, Surgery
 897, Surgery
 898, Surgery
-899, Consult - History and Phy.
+899, Surgery
 900, Surgery
 901, Surgery
-902, Consult - History and Phy.
+902, Surgery
 903, Surgery
 904, Surgery
-905, Consult - History and Phy.
+905, Surgery
 906, Surgery
-907, Consult - History and Phy.
+907, Orthopedic
 908, Surgery
 909, Surgery
 910, Surgery
 911, Consult - History and Phy.
-912, Cardiovascular / Pulmonary
-913, Surgery
-914, Consult - History and Phy.
-915, Consult - History and Phy.
+912, Surgery
+913, Cardiovascular / Pulmonary
+914, Surgery
+915, Surgery
 916, Surgery
-917, Consult - History and Phy.
+917, Surgery
 918, Surgery
-919, Consult - History and Phy.
+919, Surgery
 920, Surgery
 921, Surgery
 922, Surgery
 923, Surgery
 924, Surgery
 925, Surgery
-926, Consult - History and Phy.
-927, Consult - History and Phy.
+926, Surgery
+927, Surgery
 928, Surgery
-929, Consult - History and Phy.
+929, Radiology
 930, Surgery
 931, Surgery
 932, Surgery
-933, Cardiovascular / Pulmonary
-934, Consult - History and Phy.
-935, Consult - History and Phy.
+933, Surgery
+934, Surgery
+935, Surgery
 936, Surgery
-937, Consult - History and Phy.
+937, Surgery
 938, Surgery
-939, Cardiovascular / Pulmonary
+939, Surgery
 940, Surgery
-941, Cardiovascular / Pulmonary
-942, Cardiovascular / Pulmonary
-943, Consult - History and Phy.
+941, SOAP / Chart / Progress Notes
+942, Surgery
+943, Surgery
 944, Consult - History and Phy.
-945, Surgery
-946, Cardiovascular / Pulmonary
+945, Cardiovascular / Pulmonary
+946, Surgery
 947, Surgery
-948, Consult - History and Phy.
-949, Consult - History and Phy.
+948, Surgery
+949, Surgery
 950, Surgery
-951, Cardiovascular / Pulmonary
-952, Consult - History and Phy.
+951, Consult - History and Phy.
+952, Surgery
 953, Surgery
-954, Consult - History and Phy.
+954, Surgery
 955, Surgery
 956, Surgery
 957, Surgery
-958, Cardiovascular / Pulmonary
-959, Consult - History and Phy.
+958, Surgery
+959, Surgery
 960, Surgery
-961, Consult - History and Phy.
+961, Surgery
 962, Surgery
 963, Surgery
 964, Surgery
-965, Cardiovascular / Pulmonary
-966, Consult - History and Phy.
-967, Cardiovascular / Pulmonary
+965, Surgery
+966, Surgery
+967, Surgery
 968, Surgery
-969, Consult - History and Phy.
+969, Radiology
 970, Surgery
 971, Surgery
-972, Consult - History and Phy.
+972, Surgery
 973, Surgery
-974, Consult - History and Phy.
+974, Surgery
 975, Surgery
-976, Cardiovascular / Pulmonary
+976, Surgery
 977, Surgery
-978, Consult - History and Phy.
-979, Consult - History and Phy.
+978, Surgery
+979, Surgery
 980, Surgery
 981, Surgery
 982, Surgery
 983, Surgery
-984, Cardiovascular / Pulmonary
+984, Surgery
 985, Surgery
 986, Surgery
 987, Surgery
-988, Consult - History and Phy.
-989, Cardiovascular / Pulmonary
-990, Consult - History and Phy.
+988, Surgery
+989, Surgery
+990, Orthopedic
 991, Surgery
 992, Surgery
 993, Surgery
-994, Consult - History and Phy.
-995, Consult - History and Phy.
+994, Surgery
+995, Surgery
 996, Surgery
