@@ -1,998 +1,998 @@
 ,Expected
-0, Surgery
-1, Surgery
-2, Surgery
-3, Surgery
-4, Surgery
-5, Surgery
-6, Consult - History and Phy.
-7, Surgery
-8, Surgery
-9, Consult - History and Phy.
-10, Consult - History and Phy.
-11, Surgery
-12, Surgery
-13, Surgery
-14, Surgery
-15, Surgery
-16, Surgery
-17, Surgery
-18, Surgery
-19, Surgery
-20, Surgery
-21, Surgery
-22, Neurology
-23, Consult - History and Phy.
-24, Surgery
-25, Surgery
-26, Surgery
-27, Surgery
-28, Surgery
-29, Surgery
-30, Surgery
-31, Surgery
-32, Cardiovascular / Pulmonary
-33, Surgery
-34, Radiology
-35, Surgery
-36, Surgery
-37, Orthopedic
-38, Surgery
-39, Surgery
-40, Surgery
-41, Surgery
-42, Surgery
-43, Surgery
-44, Surgery
-45, Surgery
-46, Surgery
-47, Surgery
-48, Surgery
-49, Surgery
-50, Surgery
-51, Surgery
-52, Consult - History and Phy.
-53, Surgery
-54, Surgery
-55, Surgery
-56, Surgery
-57, Surgery
-58, Surgery
-59, Surgery
-60, Surgery
-61, Surgery
-62, Surgery
-63, Surgery
-64, Surgery
-65, Surgery
-66, Surgery
-67, Surgery
-68, Surgery
-69, Consult - History and Phy.
-70, Surgery
-71, Surgery
-72, Surgery
-73, Surgery
-74, Surgery
-75, Consult - History and Phy.
-76, Surgery
-77, Surgery
-78, Surgery
-79, Surgery
-80, Surgery
-81, Surgery
-82, Surgery
-83, Surgery
-84, Surgery
-85, Surgery
-86, Surgery
-87, Surgery
-88, Cardiovascular / Pulmonary
-89, Radiology
-90, Surgery
-91, Surgery
-92, Surgery
-93, Surgery
-94, Surgery
-95, Surgery
-96, Surgery
-97, Surgery
-98, Surgery
-99, Radiology
-100, Surgery
-101, Surgery
-102, Surgery
-103, Surgery
-104, Surgery
-105, Surgery
-106, Surgery
-107, Surgery
-108, Surgery
-109, Surgery
-110, Surgery
-111, Surgery
-112, Surgery
-113, Surgery
-114, Surgery
-115, Surgery
-116, Surgery
-117, Surgery
-118, Surgery
-119, Surgery
-120, Surgery
-121, Surgery
-122, Surgery
-123, Surgery
-124, Surgery
-125, Surgery
-126, Surgery
-127, Surgery
-128, Surgery
-129, Surgery
-130, Surgery
-131, Consult - History and Phy.
-132, Surgery
-133, Surgery
-134, Surgery
-135, Surgery
-136, Surgery
-137, Surgery
-138, Surgery
-139, Consult - History and Phy.
-140, Surgery
-141, Surgery
-142, Surgery
-143, Surgery
-144, Surgery
-145, Surgery
-146, Surgery
-147, Surgery
-148, Surgery
-149, Surgery
-150, Surgery
-151, Surgery
-152, Consult - History and Phy.
-153, Surgery
-154, Cardiovascular / Pulmonary
-155, Surgery
-156, Surgery
-157, Surgery
-158, Surgery
-159, Surgery
-160, Surgery
-161, Surgery
-162, Surgery
-163, Surgery
-164, Gastroenterology
-165, Consult - History and Phy.
-166, Surgery
-167, Surgery
-168, Surgery
-169, Surgery
-170, Surgery
-171, Orthopedic
-172, Surgery
-173, Surgery
-174, Surgery
-175, Cardiovascular / Pulmonary
-176, Surgery
-177, Surgery
-178, Surgery
-179, Surgery
-180, Surgery
-181, Surgery
-182, Surgery
-183, Surgery
-184, Surgery
-185, Surgery
-186, Surgery
-187, Surgery
-188, Surgery
-189, Surgery
-190, Surgery
-191, Surgery
-192, Surgery
-193, Cardiovascular / Pulmonary
-194, Surgery
-195, Surgery
-196, Surgery
-197, Surgery
-198, Surgery
-199, Surgery
-200, Surgery
-201, Surgery
-202, Surgery
-203, Surgery
-204, Surgery
-205, Surgery
-206, Surgery
-207, Surgery
-208, Surgery
-209, Surgery
-210, Surgery
-211, Surgery
-212, Surgery
-213, Surgery
-214, Surgery
-215, Surgery
-216, Surgery
-217, Surgery
-218, Surgery
-219, Surgery
-220, Surgery
-221, Surgery
-222, Surgery
-223, Surgery
-224, Surgery
-225, Surgery
-226, Surgery
-227, Cardiovascular / Pulmonary
-228, Surgery
-229, Surgery
-230, Surgery
-231, Orthopedic
-232, Surgery
-233, Surgery
-234, Surgery
-235, Surgery
-236, Surgery
-237, Surgery
-238, Surgery
-239, Surgery
-240, Surgery
-241, Surgery
-242, Surgery
-243, Surgery
-244, Surgery
-245, Surgery
-246, Surgery
-247, Surgery
-248, Surgery
-249, Surgery
-250, Surgery
-251, Surgery
-252, Surgery
-253, Surgery
-254, Surgery
-255, Surgery
-256, Surgery
-257, Surgery
-258, Surgery
-259, Consult - History and Phy.
-260, Surgery
-261, Surgery
-262, Surgery
-263, Surgery
-264, Surgery
-265, Surgery
-266, Surgery
-267, Surgery
-268, Surgery
-269, Surgery
-270, Surgery
-271, Radiology
-272, Surgery
-273, Surgery
-274, Surgery
-275, Surgery
-276, Surgery
-277, Surgery
-278, Surgery
-279, Surgery
-280, Surgery
-281, Surgery
-282, Surgery
-283, Surgery
-284, Surgery
-285, Surgery
-286, Surgery
-287, Surgery
-288, Surgery
-289, Surgery
-290, Surgery
-291, Surgery
-292, Surgery
-293, Surgery
-294, Surgery
-295, Surgery
-296, Surgery
-297, Surgery
-298, Surgery
-299, Surgery
-300, Surgery
-301, Radiology
-302, Surgery
-303, Surgery
-304, Surgery
-305, Surgery
-306, Surgery
-307, Surgery
-308, Surgery
-309, Surgery
-310, Surgery
-311, Surgery
-312, Surgery
-313, Surgery
-314, Surgery
-315, Surgery
-316, Surgery
-317, Surgery
-318, Surgery
-319, Surgery
-320, Surgery
-321, Surgery
-322, Surgery
-323, Surgery
-324, Surgery
-325, Surgery
-326, Surgery
-327, Cardiovascular / Pulmonary
-328, Surgery
-329, Surgery
-330, Surgery
-331, Surgery
-332, Surgery
-333, Surgery
-334, Surgery
-335, Surgery
-336, Surgery
-337, Surgery
-338, Surgery
-339, Surgery
-340, Surgery
-341, Surgery
-342, Surgery
-343, Surgery
-344, Surgery
-345, Surgery
-346, Surgery
-347, Surgery
-348, Surgery
-349, Surgery
-350, Surgery
-351, Surgery
-352, Surgery
-353, Cardiovascular / Pulmonary
-354, Consult - History and Phy.
-355, Surgery
-356, Surgery
-357, Surgery
-358, Surgery
-359, Surgery
-360, Surgery
-361, Surgery
-362, Surgery
-363, Surgery
-364, Surgery
-365, Surgery
-366, Surgery
-367, Surgery
-368, Surgery
-369, Surgery
-370, Surgery
-371, Surgery
-372, Surgery
-373, Surgery
-374, Surgery
-375, Surgery
-376, Radiology
-377, Surgery
-378, Surgery
-379, Surgery
-380, Surgery
-381, Surgery
-382, Surgery
-383, Surgery
-384, Consult - History and Phy.
-385, Surgery
-386, Surgery
-387, Surgery
-388, Surgery
-389, Surgery
-390, Surgery
-391, Surgery
-392, Surgery
-393, Surgery
-394, Surgery
-395, Surgery
-396, Surgery
-397, Surgery
-398, Surgery
-399, Surgery
-400, Surgery
-401, Surgery
-402, Surgery
-403, Surgery
-404, Surgery
-405, Surgery
-406, Surgery
-407, Surgery
-408, Orthopedic
-409, Surgery
-410, Surgery
-411, Radiology
-412, Surgery
-413, Surgery
-414, Surgery
-415, Surgery
-416, Surgery
-417, Surgery
-418, Surgery
-419, Surgery
-420, Surgery
-421, Surgery
-422, Surgery
-423, Surgery
-424, Surgery
-425, Surgery
-426, Surgery
-427, Surgery
-428, Surgery
-429, Surgery
-430, Consult - History and Phy.
-431, Surgery
-432, Surgery
-433, Surgery
-434, Surgery
-435, Surgery
-436, Surgery
-437, Surgery
-438, Surgery
-439, Surgery
-440, Surgery
-441, Surgery
-442, Surgery
-443, Surgery
-444, Surgery
-445, Surgery
-446, Surgery
-447, Orthopedic
-448, Surgery
-449, Surgery
-450, Surgery
-451, Surgery
-452, Radiology
-453, Surgery
-454, Surgery
-455, Consult - History and Phy.
-456, Surgery
-457, Surgery
-458, Surgery
-459, Surgery
-460, Surgery
-461, Surgery
-462, Surgery
-463, Surgery
-464, Surgery
-465, Surgery
-466, Surgery
-467, Surgery
-468, Surgery
-469, Surgery
-470, Surgery
-471, Surgery
-472, Surgery
-473, Surgery
-474, Surgery
-475, Surgery
-476, Surgery
-477, Surgery
-478, Surgery
-479, Surgery
-480, Surgery
-481, Surgery
-482, Surgery
-483, Surgery
-484, Surgery
-485, Surgery
-486, Surgery
-487, Surgery
-488, Surgery
-489, Surgery
-490, Surgery
-491, Surgery
-492, Surgery
-493, Surgery
-494, Surgery
-495, Surgery
-496, Consult - History and Phy.
-497, Surgery
-498, Radiology
-499, Surgery
-500, Surgery
-501, Surgery
-502, Surgery
-503, Surgery
-504, Surgery
-505, Surgery
-506, Surgery
-507, Surgery
-508, Surgery
-509, Radiology
-510, Surgery
-511, Surgery
-512, Surgery
-513, Surgery
-514, Surgery
-515, Surgery
-516, Surgery
-517, Surgery
-518, Surgery
-519, Surgery
-520, Surgery
-521, Surgery
-522, Surgery
-523, Surgery
-524, Surgery
-525, Surgery
-526, Surgery
-527, Surgery
-528, Surgery
-529, Surgery
-530, Surgery
-531, Consult - History and Phy.
-532, Surgery
-533, Surgery
-534, Surgery
-535, Surgery
-536, Surgery
-537, Surgery
-538, Surgery
-539, Surgery
-540, Surgery
-541, Surgery
-542, Surgery
-543, Surgery
-544, Surgery
-545, Surgery
-546, Surgery
-547, Surgery
-548, Surgery
-549, Surgery
-550, Surgery
-551, Surgery
-552, Surgery
-553, Surgery
-554, Surgery
-555, Surgery
-556, Surgery
-557, Surgery
-558, Surgery
-559, Surgery
-560, Surgery
-561, Surgery
-562, Surgery
-563, Surgery
-564, Surgery
-565, Surgery
-566, Cardiovascular / Pulmonary
-567, Orthopedic
-568, Surgery
-569, Surgery
-570, Surgery
-571, Surgery
-572, Surgery
-573, Surgery
-574, Surgery
-575, Surgery
-576, Surgery
-577, Surgery
-578, Surgery
-579, Surgery
-580, Surgery
-581, Surgery
-582, Surgery
-583, Surgery
-584, Surgery
-585, Surgery
-586, Surgery
-587, Surgery
-588, Surgery
-589, Cardiovascular / Pulmonary
-590, Surgery
-591, Consult - History and Phy.
-592, Surgery
-593, Consult - History and Phy.
-594, Surgery
-595, Surgery
-596, Surgery
-597, Surgery
-598, Surgery
-599, Surgery
-600, Surgery
-601, Surgery
-602, Surgery
-603, Surgery
-604, Surgery
-605, Surgery
-606, Surgery
-607, Surgery
-608, Surgery
-609, Surgery
-610, Surgery
-611, Surgery
-612, Surgery
-613, Surgery
-614, Orthopedic
-615, Surgery
-616, Surgery
-617, Surgery
-618, Cardiovascular / Pulmonary
-619, Surgery
-620, Cardiovascular / Pulmonary
-621, Surgery
-622, Surgery
-623, Surgery
-624, Surgery
-625, Surgery
-626, Cardiovascular / Pulmonary
-627, Surgery
-628, Surgery
-629, Surgery
-630, Cardiovascular / Pulmonary
-631, Surgery
-632, Surgery
-633, Surgery
-634, Gastroenterology
-635, Surgery
-636, Surgery
-637, Surgery
-638, Surgery
-639, Surgery
-640, Surgery
-641, Surgery
-642, Consult - History and Phy.
-643, Consult - History and Phy.
-644, Surgery
-645, Surgery
-646, Orthopedic
-647, Surgery
-648, Surgery
-649, Surgery
-650, Surgery
-651, Surgery
-652, Surgery
-653, Cardiovascular / Pulmonary
-654, Surgery
-655, Radiology
-656, Cardiovascular / Pulmonary
-657, Cardiovascular / Pulmonary
-658, Surgery
-659, Surgery
-660, Surgery
-661, Surgery
-662, Surgery
-663, Surgery
-664, Surgery
-665, Surgery
-666, Surgery
-667, Surgery
-668, Surgery
-669, Surgery
-670, Surgery
-671, Surgery
-672, Orthopedic
-673, Surgery
-674, Surgery
-675, Surgery
-676, Surgery
-677, Cardiovascular / Pulmonary
-678, Surgery
-679, Surgery
-680, Surgery
-681, Surgery
-682, Surgery
-683, Surgery
-684, Surgery
-685, Surgery
-686, Surgery
-687, Surgery
-688, Surgery
-689, Surgery
-690, Surgery
-691, Surgery
-692, Surgery
-693, Surgery
-694, Surgery
-695, Surgery
-696, Surgery
-697, Surgery
-698, Surgery
-699, Surgery
-700, Surgery
-701, Surgery
-702, Surgery
-703, Surgery
-704, Surgery
-705, Surgery
-706, Surgery
-707, Surgery
-708, Surgery
-709, Surgery
-710, Surgery
-711, Surgery
-712, Surgery
-713, Surgery
-714, Surgery
-715, Surgery
-716, Surgery
-717, Surgery
-718, Surgery
-719, Surgery
-720, Surgery
-721, Surgery
-722, Surgery
-723, Surgery
-724, Surgery
-725, Surgery
-726, Orthopedic
-727, Surgery
-728, Surgery
-729, SOAP / Chart / Progress Notes
-730, Surgery
-731, Surgery
-732, Surgery
-733, Surgery
-734, Surgery
-735, Surgery
-736, Surgery
-737, Surgery
-738, Surgery
-739, Surgery
-740, Surgery
-741, Surgery
-742, Surgery
-743, Surgery
-744, Surgery
-745, Surgery
-746, Surgery
-747, Surgery
-748, Radiology
-749, Surgery
-750, Surgery
-751, Surgery
-752, Surgery
-753, Surgery
-754, Surgery
-755, Surgery
-756, Surgery
-757, Surgery
-758, Gastroenterology
-759, Surgery
-760, Surgery
-761, Surgery
-762, Surgery
-763, Orthopedic
-764, Surgery
-765, Surgery
-766, Surgery
-767, Surgery
-768, Surgery
-769, Surgery
-770, Radiology
-771, Surgery
-772, Surgery
-773, Surgery
-774, Surgery
-775, Surgery
-776, Surgery
-777, Surgery
-778, Radiology
-779, Surgery
-780, Surgery
-781, Surgery
-782, Surgery
-783, Surgery
-784, Surgery
-785, Surgery
-786, Surgery
-787, Cardiovascular / Pulmonary
-788, Surgery
-789, Surgery
-790, Surgery
-791, Surgery
-792, Surgery
-793, Surgery
-794, Surgery
-795, Surgery
-796, Surgery
-797, Surgery
-798, Surgery
-799, Surgery
-800, Surgery
-801, Surgery
-802, Surgery
-803, Surgery
-804, Surgery
-805, Surgery
-806, Surgery
-807, Surgery
-808, Surgery
-809, Consult - History and Phy.
-810, Surgery
-811, Surgery
-812, Surgery
-813, Surgery
-814, Surgery
-815, Surgery
-816, Radiology
-817, Surgery
-818, Surgery
-819, Surgery
-820, Consult - History and Phy.
-821, Surgery
-822, Surgery
-823, Surgery
-824, Surgery
-825, Consult - History and Phy.
-826, Surgery
-827, Surgery
-828, Surgery
-829, Surgery
-830, Surgery
-831, Surgery
-832, Surgery
-833, Surgery
-834, Surgery
-835, Surgery
-836, Surgery
-837, Surgery
-838, Surgery
-839, Surgery
-840, Surgery
-841, Surgery
-842, Surgery
-843, Surgery
-844, Surgery
-845, Surgery
-846, Surgery
-847, Surgery
-848, Surgery
-849, Surgery
-850, Cardiovascular / Pulmonary
-851, Surgery
-852, Surgery
-853, Surgery
-854, Surgery
-855, Surgery
-856, Surgery
-857, Surgery
-858, Surgery
-859, Surgery
-860, Surgery
-861, Surgery
-862, Surgery
-863, Surgery
-864, Surgery
-865, Surgery
-866, Surgery
-867, Surgery
-868, Surgery
-869, Surgery
-870, Surgery
-871, Surgery
-872, Surgery
-873, Surgery
-874, Cardiovascular / Pulmonary
-875, Surgery
-876, Surgery
-877, Surgery
-878, Surgery
-879, Surgery
-880, Surgery
-881, Surgery
-882, Surgery
-883, Surgery
-884, Surgery
-885, Surgery
-886, Surgery
-887, Surgery
-888, Surgery
-889, Surgery
-890, Surgery
-891, Surgery
-892, Surgery
-893, Surgery
-894, Surgery
-895, Surgery
-896, Surgery
-897, Surgery
-898, Surgery
-899, Surgery
-900, Surgery
-901, Surgery
-902, Surgery
-903, Surgery
-904, Surgery
-905, Surgery
-906, Surgery
-907, Orthopedic
-908, Surgery
-909, Surgery
-910, Surgery
-911, Consult - History and Phy.
-912, Surgery
-913, Cardiovascular / Pulmonary
-914, Surgery
-915, Surgery
-916, Surgery
-917, Surgery
-918, Surgery
-919, Surgery
-920, Surgery
-921, Surgery
-922, Surgery
-923, Surgery
-924, Surgery
-925, Surgery
-926, Surgery
-927, Surgery
-928, Surgery
-929, Radiology
-930, Surgery
-931, Surgery
-932, Surgery
-933, Surgery
-934, Surgery
-935, Surgery
-936, Surgery
-937, Surgery
-938, Surgery
-939, Surgery
-940, Surgery
-941, SOAP / Chart / Progress Notes
-942, Surgery
-943, Surgery
-944, Consult - History and Phy.
-945, Cardiovascular / Pulmonary
-946, Surgery
-947, Surgery
-948, Surgery
-949, Surgery
-950, Surgery
-951, Consult - History and Phy.
-952, Surgery
-953, Surgery
-954, Surgery
-955, Surgery
-956, Surgery
-957, Surgery
-958, Surgery
-959, Surgery
-960, Surgery
-961, Surgery
-962, Surgery
-963, Surgery
-964, Surgery
-965, Surgery
-966, Surgery
-967, Surgery
-968, Surgery
-969, Radiology
-970, Surgery
-971, Surgery
-972, Surgery
-973, Surgery
-974, Surgery
-975, Surgery
-976, Surgery
-977, Surgery
-978, Surgery
-979, Surgery
-980, Surgery
-981, Surgery
-982, Surgery
-983, Surgery
-984, Surgery
-985, Surgery
-986, Surgery
-987, Surgery
-988, Surgery
-989, Surgery
-990, Orthopedic
-991, Surgery
-992, Surgery
-993, Surgery
-994, Surgery
-995, Surgery
-996, Surgery
+0,1
+1,1
+2,1
+3,1
+4,1
+5,1
+6,16
+7,1
+8,1
+9,16
+10,16
+11,1
+12,1
+13,1
+14,1
+15,1
+16,1
+17,1
+18,1
+19,1
+20,1
+21,1
+22,4
+23,16
+24,1
+25,1
+26,1
+27,1
+28,1
+29,1
+30,1
+31,1
+32,7
+33,1
+34,2
+35,1
+36,1
+37,6
+38,1
+39,1
+40,1
+41,1
+42,1
+43,1
+44,1
+45,1
+46,1
+47,1
+48,1
+49,1
+50,1
+51,1
+52,16
+53,1
+54,1
+55,1
+56,1
+57,1
+58,1
+59,1
+60,1
+61,1
+62,1
+63,1
+64,1
+65,1
+66,1
+67,1
+68,1
+69,16
+70,1
+71,1
+72,1
+73,1
+74,1
+75,16
+76,1
+77,1
+78,1
+79,1
+80,1
+81,1
+82,1
+83,1
+84,1
+85,1
+86,1
+87,1
+88,7
+89,2
+90,1
+91,1
+92,1
+93,1
+94,1
+95,1
+96,1
+97,1
+98,1
+99,2
+100,1
+101,1
+102,1
+103,1
+104,1
+105,1
+106,1
+107,1
+108,1
+109,1
+110,1
+111,1
+112,1
+113,1
+114,1
+115,1
+116,1
+117,1
+118,1
+119,1
+120,1
+121,1
+122,1
+123,1
+124,1
+125,1
+126,1
+127,1
+128,1
+129,1
+130,1
+131,16
+132,1
+133,1
+134,1
+135,1
+136,1
+137,1
+138,1
+139,16
+140,1
+141,1
+142,1
+143,1
+144,1
+145,1
+146,1
+147,1
+148,1
+149,1
+150,1
+151,1
+152,16
+153,1
+154,7
+155,1
+156,1
+157,1
+158,1
+159,1
+160,1
+161,1
+162,1
+163,1
+164,5
+165,16
+166,1
+167,1
+168,1
+169,1
+170,1
+171,6
+172,1
+173,1
+174,1
+175,7
+176,1
+177,1
+178,1
+179,1
+180,1
+181,1
+182,1
+183,1
+184,1
+185,1
+186,1
+187,1
+188,1
+189,1
+190,1
+191,1
+192,1
+193,7
+194,1
+195,1
+196,1
+197,1
+198,1
+199,1
+200,1
+201,1
+202,1
+203,1
+204,1
+205,1
+206,1
+207,1
+208,1
+209,1
+210,1
+211,1
+212,1
+213,1
+214,1
+215,1
+216,1
+217,1
+218,1
+219,1
+220,1
+221,1
+222,1
+223,1
+224,1
+225,1
+226,1
+227,7
+228,1
+229,1
+230,1
+231,6
+232,1
+233,1
+234,1
+235,1
+236,1
+237,1
+238,1
+239,1
+240,1
+241,1
+242,1
+243,1
+244,1
+245,1
+246,1
+247,1
+248,1
+249,1
+250,1
+251,1
+252,1
+253,1
+254,1
+255,1
+256,1
+257,1
+258,1
+259,16
+260,1
+261,1
+262,1
+263,1
+264,1
+265,1
+266,1
+267,1
+268,1
+269,1
+270,1
+271,2
+272,1
+273,1
+274,1
+275,1
+276,1
+277,1
+278,1
+279,1
+280,1
+281,1
+282,1
+283,1
+284,1
+285,1
+286,1
+287,1
+288,1
+289,1
+290,1
+291,1
+292,1
+293,1
+294,1
+295,1
+296,1
+297,1
+298,1
+299,1
+300,1
+301,2
+302,1
+303,1
+304,1
+305,1
+306,1
+307,1
+308,1
+309,1
+310,1
+311,1
+312,1
+313,1
+314,1
+315,1
+316,1
+317,1
+318,1
+319,1
+320,1
+321,1
+322,1
+323,1
+324,1
+325,1
+326,1
+327,7
+328,1
+329,1
+330,1
+331,1
+332,1
+333,1
+334,1
+335,1
+336,1
+337,1
+338,1
+339,1
+340,1
+341,1
+342,1
+343,1
+344,1
+345,1
+346,1
+347,1
+348,1
+349,1
+350,1
+351,1
+352,1
+353,7
+354,16
+355,1
+356,1
+357,1
+358,1
+359,1
+360,1
+361,1
+362,1
+363,1
+364,1
+365,1
+366,1
+367,1
+368,1
+369,1
+370,1
+371,1
+372,1
+373,1
+374,1
+375,1
+376,2
+377,1
+378,1
+379,1
+380,1
+381,1
+382,1
+383,1
+384,16
+385,1
+386,1
+387,1
+388,1
+389,1
+390,1
+391,1
+392,1
+393,1
+394,1
+395,1
+396,1
+397,1
+398,1
+399,1
+400,1
+401,1
+402,1
+403,1
+404,1
+405,1
+406,1
+407,1
+408,6
+409,1
+410,1
+411,2
+412,1
+413,1
+414,1
+415,1
+416,1
+417,1
+418,1
+419,1
+420,1
+421,1
+422,1
+423,1
+424,1
+425,1
+426,1
+427,1
+428,1
+429,1
+430,16
+431,1
+432,1
+433,1
+434,1
+435,1
+436,1
+437,1
+438,1
+439,1
+440,1
+441,1
+442,1
+443,1
+444,1
+445,1
+446,1
+447,6
+448,1
+449,1
+450,1
+451,1
+452,2
+453,1
+454,1
+455,16
+456,1
+457,1
+458,1
+459,1
+460,1
+461,1
+462,1
+463,1
+464,1
+465,1
+466,1
+467,1
+468,1
+469,1
+470,1
+471,1
+472,1
+473,1
+474,1
+475,1
+476,1
+477,1
+478,1
+479,1
+480,1
+481,1
+482,1
+483,1
+484,1
+485,1
+486,1
+487,1
+488,1
+489,1
+490,1
+491,1
+492,1
+493,1
+494,1
+495,1
+496,16
+497,1
+498,2
+499,1
+500,1
+501,1
+502,1
+503,1
+504,1
+505,1
+506,1
+507,1
+508,1
+509,2
+510,1
+511,1
+512,1
+513,1
+514,1
+515,1
+516,1
+517,1
+518,1
+519,1
+520,1
+521,1
+522,1
+523,1
+524,1
+525,1
+526,1
+527,1
+528,1
+529,1
+530,1
+531,16
+532,1
+533,1
+534,1
+535,1
+536,1
+537,1
+538,1
+539,1
+540,1
+541,1
+542,1
+543,1
+544,1
+545,1
+546,1
+547,1
+548,1
+549,1
+550,1
+551,1
+552,1
+553,1
+554,1
+555,1
+556,1
+557,1
+558,1
+559,1
+560,1
+561,1
+562,1
+563,1
+564,1
+565,1
+566,7
+567,6
+568,1
+569,1
+570,1
+571,1
+572,1
+573,1
+574,1
+575,1
+576,1
+577,1
+578,1
+579,1
+580,1
+581,1
+582,1
+583,1
+584,1
+585,1
+586,1
+587,1
+588,1
+589,7
+590,1
+591,16
+592,1
+593,16
+594,1
+595,1
+596,1
+597,1
+598,1
+599,1
+600,1
+601,1
+602,1
+603,1
+604,1
+605,1
+606,1
+607,1
+608,1
+609,1
+610,1
+611,1
+612,1
+613,1
+614,6
+615,1
+616,1
+617,1
+618,7
+619,1
+620,7
+621,1
+622,1
+623,1
+624,1
+625,1
+626,7
+627,1
+628,1
+629,1
+630,7
+631,1
+632,1
+633,1
+634,5
+635,1
+636,1
+637,1
+638,1
+639,1
+640,1
+641,1
+642,16
+643,16
+644,1
+645,1
+646,6
+647,1
+648,1
+649,1
+650,1
+651,1
+652,1
+653,7
+654,1
+655,2
+656,7
+657,7
+658,1
+659,1
+660,1
+661,1
+662,1
+663,1
+664,1
+665,1
+666,1
+667,1
+668,1
+669,1
+670,1
+671,1
+672,6
+673,1
+674,1
+675,1
+676,1
+677,7
+678,1
+679,1
+680,1
+681,1
+682,1
+683,1
+684,1
+685,1
+686,1
+687,1
+688,1
+689,1
+690,1
+691,1
+692,1
+693,1
+694,1
+695,1
+696,1
+697,1
+698,1
+699,1
+700,1
+701,1
+702,1
+703,1
+704,1
+705,1
+706,1
+707,1
+708,1
+709,1
+710,1
+711,1
+712,1
+713,1
+714,1
+715,1
+716,1
+717,1
+718,1
+719,1
+720,1
+721,1
+722,1
+723,1
+724,1
+725,1
+726,6
+727,1
+728,1
+729,13
+730,1
+731,1
+732,1
+733,1
+734,1
+735,1
+736,1
+737,1
+738,1
+739,1
+740,1
+741,1
+742,1
+743,1
+744,1
+745,1
+746,1
+747,1
+748,2
+749,1
+750,1
+751,1
+752,1
+753,1
+754,1
+755,1
+756,1
+757,1
+758,5
+759,1
+760,1
+761,1
+762,1
+763,6
+764,1
+765,1
+766,1
+767,1
+768,1
+769,1
+770,2
+771,1
+772,1
+773,1
+774,1
+775,1
+776,1
+777,1
+778,2
+779,1
+780,1
+781,1
+782,1
+783,1
+784,1
+785,1
+786,1
+787,7
+788,1
+789,1
+790,1
+791,1
+792,1
+793,1
+794,1
+795,1
+796,1
+797,1
+798,1
+799,1
+800,1
+801,1
+802,1
+803,1
+804,1
+805,1
+806,1
+807,1
+808,1
+809,16
+810,1
+811,1
+812,1
+813,1
+814,1
+815,1
+816,2
+817,1
+818,1
+819,1
+820,16
+821,1
+822,1
+823,1
+824,1
+825,16
+826,1
+827,1
+828,1
+829,1
+830,1
+831,1
+832,1
+833,1
+834,1
+835,1
+836,1
+837,1
+838,1
+839,1
+840,1
+841,1
+842,1
+843,1
+844,1
+845,1
+846,1
+847,1
+848,1
+849,1
+850,7
+851,1
+852,1
+853,1
+854,1
+855,1
+856,1
+857,1
+858,1
+859,1
+860,1
+861,1
+862,1
+863,1
+864,1
+865,1
+866,1
+867,1
+868,1
+869,1
+870,1
+871,1
+872,1
+873,1
+874,7
+875,1
+876,1
+877,1
+878,1
+879,1
+880,1
+881,1
+882,1
+883,1
+884,1
+885,1
+886,1
+887,1
+888,1
+889,1
+890,1
+891,1
+892,1
+893,1
+894,1
+895,1
+896,1
+897,1
+898,1
+899,1
+900,1
+901,1
+902,1
+903,1
+904,1
+905,1
+906,1
+907,6
+908,1
+909,1
+910,1
+911,16
+912,1
+913,7
+914,1
+915,1
+916,1
+917,1
+918,1
+919,1
+920,1
+921,1
+922,1
+923,1
+924,1
+925,1
+926,1
+927,1
+928,1
+929,2
+930,1
+931,1
+932,1
+933,1
+934,1
+935,1
+936,1
+937,1
+938,1
+939,1
+940,1
+941,13
+942,1
+943,1
+944,16
+945,7
+946,1
+947,1
+948,1
+949,1
+950,1
+951,16
+952,1
+953,1
+954,1
+955,1
+956,1
+957,1
+958,1
+959,1
+960,1
+961,1
+962,1
+963,1
+964,1
+965,1
+966,1
+967,1
+968,1
+969,2
+970,1
+971,1
+972,1
+973,1
+974,1
+975,1
+976,1
+977,1
+978,1
+979,1
+980,1
+981,1
+982,1
+983,1
+984,1
+985,1
+986,1
+987,1
+988,1
+989,1
+990,6
+991,1
+992,1
+993,1
+994,1
+995,1
+996,1
